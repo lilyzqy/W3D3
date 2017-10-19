@@ -1,0 +1,3 @@
+class TagTopic < ApplicationRecord
+  
+end
